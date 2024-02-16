@@ -1,12 +1,22 @@
-# Metformin-Feeding-LacPhe-Analysis
+# Metformin-Feeding-Lac-Phe-Analysis
 
-This repository is dedicated to the research paper on the impact of Metformin and feeding on Lac-Phe (N-lactoyl phenylalanine) levels 
+Welcome to the repository for our research showing that  Metformin and meals increases the levels of the appetite-suppressing metabolite N-Lactoyl Phenylalanine (Lac-Phe). Our findings are published in Nature Metabolism as:  
 
-Stay tuned for further updates, including detailed analysis and code for replicating the study's results.
+**Metformin and feeding increase levels of the appetite suppressing metabolite Lac-Phe**
 
-## Upcoming Content
 
-- Detailed Python scripts for generating the data visualizations similar to those in the paper. The final paper figure were created in GraphPad Prism
+## Repository Structure
+
+- `notebooks/`: Contains Jupyter notebooks detailing our data analysis and visualization processes.
+- `data/`: Includes the datasets used in our study. For details on the data files and their sources, please refer to the README in the data directory.
+
+## Running the Analysis
+
+Access our primary analysis notebooks directly on Google Colab for an interactive experience without the need for local setup:
+
+[Colab Notebook for the Lac-Phe response to mixed meal challenge](https://colab.research.google.com/github/barryfscott/Metformin-Feeding-Lac-Phe-Analysis/blob/main/notebooks/Kannt_mixed_meal_feeding_intervention.ipynb)
 
 
 For any inquiries, please open an issue or contact barry.f.scott@gamil.com 
+
+
