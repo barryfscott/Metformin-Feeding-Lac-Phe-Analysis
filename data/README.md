@@ -7,6 +7,11 @@ This directory contains the following data files used in the Jupyter notebooks f
 - **Source**: [Short-term variability of the human serum metabolome depending on nutritional and metabolic health status](https://www.nature.com/articles/s41598-020-72914-7#Sec26)
 - **Preprocessing**: Prior to analysis, certain columns were removed using Excel for a streamlined data import process into a pandas DataFrame.
 
+## Mathew_feeding_metabolomics.xlsx
+- **Description**: This file contains the metabolomics data before and after a date fruit challenge or an oral glucose tolerance test. It includes columns for metabolite levels, patient IDs, and Timepoints.
+- **Source**: [Metabolic changes of the blood metabolome after a date fruit challenge]([https://www.nature.com/articles/s41598-020-72914-7#Sec26](https://www.sciencedirect.com/science/article/pii/S1756464618304699)
+- **Preprocessing**: Prior to analysis, certain columns were removed using Excel for a streamlined data import process into a pandas DataFrame.
+
 ## unknown_Metabolon_metabolites_renamed.xlsx
 - **Description**: List of metabolites that were initially reported as unknown metabolites by Metabolon but have since been identified.
 
