@@ -14,7 +14,9 @@ Welcome to the repository for our research showing that  Metformin and meals inc
 
 Access our primary analysis notebooks directly on Google Colab for an interactive experience without the need for local setup:
 
-[Colab Notebook for the Lac-Phe response to mixed meal challenge](https://colab.research.google.com/github/barryfscott/Metformin-Feeding-Lac-Phe-Analysis/blob/main/notebooks/Kannt_mixed_meal_feeding_intervention.ipynb)
+[Colab Notebook for the Lac-Phe response to a mixed meal challenge](https://colab.research.google.com/github/barryfscott/Metformin-Feeding-Lac-Phe-Analysis/blob/main/notebooks/Kannt_mixed_meal_feeding_intervention.ipynb)
+
+[Colab Notebook for the Lac-Phe response to a Date fruit challenge](https://colab.research.google.com/github/barryfscott/Metformin-Feeding-Lac-Phe-Analysis/blob/main/notebooks/Mathew_Date_fruit_feeding_intervention.ipynb)
 
 
 For any inquiries, please open an issue or contact barry.f.scott@gamil.com 
