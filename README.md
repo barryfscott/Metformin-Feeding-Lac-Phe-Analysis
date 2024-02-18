@@ -14,6 +14,8 @@ Welcome to the repository for our research showing that  Metformin and meals inc
 
 Access our primary analysis notebooks directly on Google Colab for an interactive experience without the need for local setup:
 
+[Colab Notebook introducing our first dataset. Our first indication that Lac-Phe increased in response to metformin. ](https://colab.research.google.com/github/barryfscott/Metformin-Feeding-Lac-Phe-Analysis/blob/main/notebooks/Brigham_ObeseT2D_vs_ObeseNonT2D_vs_lean.ipynb)
+
 [Colab Notebook for the Lac-Phe response to a mixed meal challenge](https://colab.research.google.com/github/barryfscott/Metformin-Feeding-Lac-Phe-Analysis/blob/main/notebooks/Kannt_mixed_meal_feeding_intervention.ipynb)
 
 [Colab Notebook for the Lac-Phe response to a Date fruit challenge](https://colab.research.google.com/github/barryfscott/Metformin-Feeding-Lac-Phe-Analysis/blob/main/notebooks/Mathew_Date_fruit_feeding_intervention.ipynb)
